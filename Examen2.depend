@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1505690524 source:c:\users\usuario\desktop\universidad\trabajos\porgra 3\examen2zebra-master\evaluador.cpp
+	"Evaluador.h"
+
+1505690524 c:\users\usuario\desktop\universidad\trabajos\porgra 3\examen2zebra-master\evaluador.h
+	"Libro.h"
+	"NodoBinario.h"
+	<iostream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<list>
+
+1505690524 c:\users\usuario\desktop\universidad\trabajos\porgra 3\examen2zebra-master\libro.h
+	<iostream>
+
+1505690524 c:\users\usuario\desktop\universidad\trabajos\porgra 3\examen2zebra-master\nodobinario.h
+	<iostream>
+
+1505690524 source:c:\users\usuario\desktop\universidad\trabajos\porgra 3\examen2zebra-master\libro.cpp
+	"Libro.h"
+
+1505690524 source:c:\users\usuario\desktop\universidad\trabajos\porgra 3\examen2zebra-master\nodobinario.cpp
+	"NodoBinario.h"
+
+1505739896 source:c:\users\usuario\desktop\universidad\trabajos\porgra 3\examen2zebra-master\main.cpp
+	<iostream>
+	<list>
+	<fstream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	"Libro.h"
+	"Evaluador.h"
+	"NodoBinario.h"
+
